@@ -29,6 +29,8 @@
 <li> ![h2](https://user-images.githubusercontent.com/56352422/171334500-ac0163e9-519c-4e9f-ab03-40ef67905ae9.png)</li>
 <li>Click on button connect</li>
 <li>And now you see H2 database</li>
+ ![Selection_022](https://user-images.githubusercontent.com/56352422/171334762-d3053f01-fa56-4ea6-9704-32127d7d8bf8.png)
+
 
 
 </ol>
