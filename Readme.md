@@ -26,7 +26,7 @@
 <li>run command mvn spring-boot:run</li>
 <li><a href="http://localhost:8080/h2-console">Click on this link</a>   </li>
 <li>Now you see H.2 database console</li>
-<li><a href="https://user-images.githubusercontent.com/56352422/171335550-9a9b4ea8-8709-4bcc-9788-0cc6f6c0d919.jpg">Image</a></li>
+<li><a href="https://user-images.githubusercontent.com/56352422/171335550-9a9b4ea8-8709-4bcc-9788-0cc6f6c0d919.jpg">Click on this link</a></li>
 <li>Click on button connect</li>
 <li>And now you see H2 database</li>
  <li><a href="https://user-images.githubusercontent.com/56352422/171334225-385ec6b0-d3d5-47f7-a8a6-d7ab3c906ee9.jpg">Click on link</a></li>
