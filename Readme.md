@@ -31,7 +31,10 @@
 <li>And now you see H2 database</li>
  <li><a href="https://user-images.githubusercontent.com/56352422/171334225-385ec6b0-d3d5-47f7-a8a6-d7ab3c906ee9.jpg">Click on link</a></li>
  <li> You can use SQL command SELECT * FROM Person to get a data</li>
- 
+ <li> Now you can test this program in another way</li>
+ <li> Open project Person/src/fronted/find-person-app</li>
+ <li> In terminal write ng serve --open</li>
+ <li> In brwser go to http://localhost:4200 and you will se table where you can search by personal code and birth date</li>
 </ol>
 
 
