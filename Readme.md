@@ -30,7 +30,7 @@
 <li>Click on button connect</li>
 <li>And now you see H2 database</li>
  </ol>
- ![Selection_022](https://user-images.githubusercontent.com/56352422/171334762-d3053f01-fa56-4ea6-9704-32127d7d8bf8.png)
+ ![Selection_022]([https://user-images.githubusercontent.com/56352422/171334762-d3053f01-fa56-4ea6-9704-32127d7d8bf8.png](https://user-images.githubusercontent.com/56352422/171334225-385ec6b0-d3d5-47f7-a8a6-d7ab3c906ee9.jpg))
 
 
 
