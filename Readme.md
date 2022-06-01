@@ -26,12 +26,9 @@
 <li>run command mvn spring-boot:run</li>
 <li><a href="http://localhost:8080/h2-console">Click on this link</a>   </li>
 <li>Now you see H.2 database console</li>
-![h2](https://drive.google.com/file/d/13aeRvhmaeXYmT89Av02tJjXyxu6vZvZ6/view?usp=sharing)
+![h2](src/main/resources/images/h2.jpg)
 <li>Click on button connect</li>
 <li>And now you see H2 database</li>
-<img src="https://drive.google.com/file/d/1laHgjXbriYECiqBWc-Tsa14D9joviQ9e/view?usp=sharing"
-raw=true
-style=“margin-right: 10px
- alt="h2_1";/>
+![alt text](http://url/to/h2.jpg)
 <li> Using SQL statmant SELECT * FROM Person you can select all persons in database</li>
 </ol>
